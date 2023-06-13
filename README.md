@@ -35,7 +35,7 @@
 ## Used technologies
 - JAVA 11
 - Maven
-- Tomcat
+- Tomcat 9.0.75
 - Dependency Injection
 - HttpServlet
 - AuthenticationService
@@ -44,6 +44,8 @@
 - JDBC
 - JCP
 - Git
+- HTML
+- CSS
 
 ## Instructions for running
 1. Clone application from https://github.com/ArtemMakovskyy/taxi-service
